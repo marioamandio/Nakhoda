@@ -1,0 +1,65 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171717;
+    padding: .3rem .7rem .6rem .7rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    height: 3rem;
+}
+
+.navbar__navigator {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar__navigator--item {
+    padding: 0 1.5rem ;
+}
+
+.navbar__navigator--item span {
+    color: #838383;
+}
+
+.navbar__navigator--item:last-child span{
+    color: #e2ae59;
+    font-weight: 400;
+}
+
+
+.navbar__profile {
+    display: flex;
+    width: 20rem;
+    justify-content: space-between;
+}
+
+.navbar__profile--item {
+    display: flex;
+    align-items: center;
+}
+
+.navbar__profile--item span {
+    color: #525252;
+    font-size: 1.2rem;
+}
+
+.navbar__profile--item .avatar {
+    margin-right: 1.8rem;
+    height: 90%;
+    background-color: #424242;
+    font-size: 1.8rem;
+    width: 1.9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    line-height: 1.2;
+}
+
+.navbar__profile--item .avatar span{
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 200;
+    transform: translateY(-7%);
+}

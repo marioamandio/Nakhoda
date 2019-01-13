@@ -1,0 +1,67 @@
+.menu {
+    width: 100%;
+    height: 5.5rem;
+    background-color: #242424;
+    display: flex;
+    color: #525252;
+}
+
+.menu__section {
+    border-right: 1px solid #171717;
+    vertical-align: middle;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+}
+
+.menu__section--1 {
+    padding: 0 1rem;
+    font-size: 1.4rem;
+    color: #7F6059;
+    font-weight: 300;
+}
+
+.menu__section--2 {
+    font-size: 1.1rem;
+    padding: 1.25rem;
+}
+
+
+.menu__section--3 {
+    width: 43rem;
+    padding: 0 6rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.menu__section--4 {
+    width: 20.3rem;
+}
+
+/* section icons */
+
+.menu__section--5 {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    border-right: .1rem solid #171717;
+}
+
+.menu__section--5 .menu__icon {
+    padding: 1.5rem 1.5rem 1rem 1.5rem;
+    height: 100%;
+    justify-content: flex-end;
+}
+
+.menu__section--5 .menu__icon span {
+    font-size: 1.2rem;
+    font-weight: 200;
+    display: inline-block;
+    margin-top: .3rem;
+}
+
+.menu__section--4--icon {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}

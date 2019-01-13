@@ -1,0 +1,21 @@
+.select-menu__custom {
+    width: 28rem;
+    height: 3rem;
+    overflow: hidden;
+    border-radius: 1rem;
+    background-color: #151515;
+    appearance: none;
+    background-image: url("../img/icons/arrowup.jpeg");
+    background-size: 1.5rem;
+    background-position: calc(100% - 1rem);
+    background-repeat: no-repeat;
+    color: #fff;
+    border: none;
+    padding: 0 1rem;
+}
+
+.select-menu__custom:focus {
+    outline: none;
+}
+
+

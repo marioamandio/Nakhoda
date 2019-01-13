@@ -1,0 +1,29 @@
+.icons--profile {
+    height: .4rem;
+    margin-left: .5rem;
+}
+
+.menu__icon {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.icon-menu-down {
+    width: 1.7rem;
+    margin-bottom: .7rem;
+}
+
+.icon-menu-section-w {
+    width: 1.8rem;
+}
+
+.icon-menu-section-h {
+    width: 1.4rem;
+}
+
+.icon--verified {
+    display: inline-block;
+    height: 1.6rem;
+    margin-right: 1rem
+}
