@@ -32,13 +32,13 @@ const Menu = () => {
                         <div className="menu__section--4--icon">
                             <img src={trash} alt=""className="icon-menu-section-h"/>
                         </div>
-                        <span>trash</span>
+                        <span>archieto</span>
                     </div>
                     <div className="menu__icon">
                         <div className="menu__section--4--icon">
                             <img src={btnScrollLeft} alt="" className="icon-menu-section-w"/>
                         </div>
-                        <span>left</span>
+                        <span>aperiam</span>
                     </div>
                     <div className="menu__icon">
                         <div className="menu__section--4--icon">
@@ -50,7 +50,7 @@ const Menu = () => {
                         <div className="menu__section--4--icon">
                             <img src={message} alt="" className="icon-menu-section-w"/>
                         </div>
-                        <span>message</span>
+                        <span>rem</span>
                     </div>
                 </div>
             </div>
