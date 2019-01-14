@@ -82,18 +82,18 @@ body {
       font-size: 12.5%;
     }
 }
-
+/* 
 /* media queries min-width */
 /* set to 11px */
-@media only screen and (min-width: 1260px) {
+/* @media only screen and (min-width: 1260px) {
     html {
       font-size: 68.75%;
     }
 }
 
-/* set to 11px */
-@media only screen and (min-width: 1375px) {
+/* set to 12px */
+/* @media only screen and (min-width: 1375px) {
     html {
       font-size: 75%;
     }
-}
+} */
